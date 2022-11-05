@@ -178,7 +178,7 @@ ol{
     }
     100%{
 
-        transform: translate(5%, -16vh);
+        transform: translate(5%, -26vh);
         scale: 1.2
 
     }
@@ -187,12 +187,12 @@ ol{
     0%{
         opacity: 0;
         scale:.9;
-        transform: translateY(-25vh);
+        transform: translateY(-20vh);
     }
 
     100%{
         opacity: 1;
         scale: 1;
-        transform: translateY(-26vh);
+        transform: translateY(-19vh);
     }
 }
